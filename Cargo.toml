@@ -1,5 +1,5 @@
 [package]
-name = "grrs"
+name = "rustsearchfiles"
 version = "0.1.0"
 edition = "2018"
 description = "A tool to search inside a file"
