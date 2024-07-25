@@ -93,7 +93,6 @@ fn main() -> Result<()> {
             println!("{}", line);
         }
     }
-
     info!("found the pattern");
     Ok(())
 }
